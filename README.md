@@ -1,6 +1,5 @@
 ### Olá! Me chamo Bruno Brigante!
 
-- 🔭 Ainda não possuo experiência profissional.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
 
 <div>
