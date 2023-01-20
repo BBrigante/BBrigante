@@ -1,6 +1,7 @@
 ### Olá! Me chamo Bruno Brigante!
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
+- Estudante de Análise e Desenvolvimento de Sistemas.
+- Desenvolvedor Back-End - ASP.NET CORE 6.0 - C#
 
 <div>
   <a href="https://beacons.ai/BBrigante">
