@@ -1,9 +1,9 @@
 ### Olá! Me chamo Bruno Brigante!
 
 - Estudante de Análise e Desenvolvimento de Sistemas.
-- Desenvolvedor Back-End - ASP.NET CORE 6.0 (C#) / JAVASCRIPT
-- Desenvolvedor Front-End - HTML5 / CSS3
+- Desenvolvedor Back-End - ASP.NET CORE 6.0 (C#)
 - Banco de Dados Relacional - SQL SERVER 2022
+- Front-End - HTML5 / CSS3 / JAVASCRIPT
 - Ambiente de Desenvolvimento - VISUAL STUDIO 22 / VISUAL STUDIO CODE / SQL SERVER MANAGEMENT STUDIO 19 / WORKBENCH
 
 <div>
