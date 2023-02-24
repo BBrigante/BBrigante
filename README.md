@@ -2,9 +2,9 @@
 
 - Estudante de Análise e Desenvolvimento de Sistemas.
 - Desenvolvedor Back-End - ASP.NET CORE 6.0 (C#)
-- Banco de Dados Relacional - SQL SERVER 2022
+- Banco de Dados Relacional e Não Relacional - SQL SERVER 2022 / WORKBENCH 8.0 CE
 - Front-End - HTML5 / CSS3 / JAVASCRIPT
-- Ambiente de Desenvolvimento - VISUAL STUDIO 22 / VISUAL STUDIO CODE / SQL SERVER MANAGEMENT STUDIO 19 / WORKBENCH
+- Ambiente de Desenvolvimento - VISUAL STUDIO 22 / VISUAL STUDIO CODE / CODE::BLOCKS 22.03 / NOTEPAD++ / VISUAL BASIC
 
 <div>
   <a href="https://beacons.ai/BBrigante">
