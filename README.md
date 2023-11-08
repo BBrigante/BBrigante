@@ -8,7 +8,6 @@
 
 <div>
   <a href="https://beacons.ai/BBrigante">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BBrigante&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBrigante&layout=compact&langs_count=16&theme=dark"/>
    </div>
 
@@ -27,5 +26,4 @@
     <a href="https://www.linkedin.com/in/bruno-brigante-2b04331a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
     <a href = "mailto:brunobrigante1989@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
-![snake gif](https://github.com/BBrigante/BBrigante/blob/output/github-contribution-grid-snake.svg)
+
