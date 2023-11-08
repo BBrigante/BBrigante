@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://beacons.ai/BBrigante">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBrigante&layout=compact&langs_count=16&theme=dark"/>
+   <img  width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBrigante&layout=compact&langs_count=16&theme=dark"/>
    </div>
 
 <div style="display: inline_block"><br>
