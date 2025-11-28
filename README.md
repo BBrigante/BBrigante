@@ -1,5 +1,5 @@
-### Olá!
-
+### Olá, seja bem-vindo!
+##
 - Desenvolvedor Web & Analista de Sistemas
 - Figma, Wordpress - PHP, HTML, CSS, JS
 - Desenvolvedor Back-End - C e ASP.NET CORE 6.0 (C#), JAVA e Python
@@ -7,10 +7,13 @@
 - Front-End - HTML5 / CSS3 / JAVASCRIPT
 - Ambiente de Desenvolvimento - VISUAL STUDIO 22 / VISUAL STUDIO CODE / ECLIPSE (JDK) / CODE::BLOCKS 22.03 / NOTEPAD++ / VISUAL BASIC
 
+##
+
+<br>
 <div>
   <a href="https://beacons.ai/BBrigante">
-   <img  width="300"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBrigante&layout=compact&langs_count=16&theme=dark"/>
-   </div>
+   <img  width="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBrigante&layout=compact&langs_count=16&theme=dark"/>
+<div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="BBrigante-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
