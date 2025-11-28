@@ -1,7 +1,7 @@
 ### Olá! Me chamo Bruno Brigante!
 
 - Desenvolvedor Web & Analista de Sistemas
-- Figma, wordpress - PHP, HTML, CSS, JS
+- Figma, Wordpress - PHP, HTML, CSS, JS
 - Desenvolvedor Back-End - C e ASP.NET CORE 6.0 (C#), JAVA e Python
 - Banco de Dados - SQL SERVER 2022 / WORKBENCH 8.0 CE
 - Front-End - HTML5 / CSS3 / JAVASCRIPT
