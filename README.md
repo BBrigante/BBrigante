@@ -12,8 +12,9 @@
 <br>
 <div>
   <a href="https://beacons.ai/BBrigante">
-   <img  width="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBrigante&layout=compact&langs_count=16&theme=dark"/>
-<div>
+    <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBrigante&layout=compact&langs_count=16&theme=dark">
+  </a>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="BBrigante-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
