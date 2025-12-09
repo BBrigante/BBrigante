@@ -10,10 +10,9 @@
 ##
 
 <div>
-  <a href="https://github-profile-summary-cards.vercel.app/">
-    <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BBrigante&theme=github_dark" />
-  </a>
+  <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BBrigante&theme=github_dark" />    <img width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BBrigante&theme=github_dark" />
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="BBrigante-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
