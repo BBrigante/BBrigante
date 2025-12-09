@@ -1,11 +1,12 @@
 ### Olá, seja bem-vindo!
 ##
 - Desenvolvedor Web & Analista de Sistemas
-- Figma, Wordpress - PHP, HTML, CSS, JS
-- Desenvolvedor Back-End - C e ASP.NET CORE 6.0 (C#), JAVA e Python
+- Figma, Wordpress, Odoo - PHP, HTML, CSS, JS & TS 
+- Desenvolvedor Back-End - C# e ASP.NET CORE 6.0 (C#), JAVA & Python
 - Banco de Dados - SQL SERVER 2022 / WORKBENCH 8.0 CE
-- Front-End - HTML5 / CSS3 / JAVASCRIPT
+- Front-End - CSS3 & Tailwind
 - Ambiente de Desenvolvimento - VISUAL STUDIO 22 / VISUAL STUDIO CODE / ECLIPSE (JDK) / CODE::BLOCKS 22.03 / NOTEPAD++ / VISUAL BASIC
+- Kanban, Scrum & Trello
 
 ##
 
