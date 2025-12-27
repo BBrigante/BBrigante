@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo!
 ##
-- Desenvolvedor Web & Analista de Sistemas
+- Desenvolvedor Web & Analista de Sistemas em Aquática American Park
 - Figma, Wordpress, Odoo - PHP, HTML, CSS, JS & TS 
 - Desenvolvedor Back-End - C# e ASP.NET CORE 6.0 (C#), JAVA & Python
 - Banco de Dados - SQL SERVER 2022 / WORKBENCH 8.0 CE
